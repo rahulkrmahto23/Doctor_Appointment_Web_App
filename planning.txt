@@ -1,0 +1,8 @@
+1.create vite , react , javascript
+2.install tailwind postcss and set
+3.install react-router-dom react-icons react-spinners react-toastify swiper
+4.copy all the images and data
+5.create a folder components , layout, pages, routes
+6.In components create header and footer folder
+7.create a folder home, services, login, signup ,contact
+8.create a folder doctors in pages file
